@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
+<h1 align="center"> Hi 👋🏻, I'm Dom </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
