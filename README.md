@@ -7,11 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
 - 🔭 Focusing on FullStack.😎
-- 🌱 Trying to expert in NextJS and NestJS ❤
+- 🌱 Trying to expert in NextJS and Python ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
-- 🥅 2023 Goals: Want to be a Fullstack Web Developer.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
 ---
 
